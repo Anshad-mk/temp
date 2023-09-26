@@ -14,7 +14,7 @@ import Testimonals from "../components/testimonals";
 const Home = () => {
   return (
     <div className="">
-      {/* <AddressBar /> */}
+      <AddressBar />
       <NavBar />
       <HeroSection />
       <AboutUs />
